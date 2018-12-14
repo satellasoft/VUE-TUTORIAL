@@ -1,0 +1,24 @@
+body{
+  background-image:  url("../img/background.jpg");
+  background-size: cover;
+}
+
+.max-width{
+  max-width:900px;
+  width:100%;
+}
+
+.white-transparent{
+    margin:0 auto;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border:2px solid #EEE;
+    box-shadow: 0 0 10px #EEE;
+    display: none;
+}
+
+
+.red-alert{
+  color: red;
+  font-size: 0.9em;
+}
